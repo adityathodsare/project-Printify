@@ -1,0 +1,8 @@
+com\printKaro\chat\print_shop_chat\controllers\RoomController.class
+com\printKaro\chat\print_shop_chat\entities\Message.class
+com\printKaro\chat\print_shop_chat\playload\MessageRequest.class
+com\printKaro\chat\print_shop_chat\entities\Room.class
+com\printKaro\chat\print_shop_chat\config\WebSocketConfig.class
+com\printKaro\chat\print_shop_chat\controllers\ChatController.class
+com\printKaro\chat\print_shop_chat\Repositories\roomRepository.class
+com\printKaro\chat\print_shop_chat\PrintShopChatApplication.class
