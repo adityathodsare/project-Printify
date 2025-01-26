@@ -8,7 +8,7 @@ Printify is a cutting-edge web application designed to simplify and secure print
 - **Secure Document Upload**: Share documents via secure links or direct uploads, ensuring enhanced privacy.
 - **Anonymous Communication**: Chat in real time without sharing personal details.
 
-- 
+  
 ## 🔗 Additional Resources
 
 - **YouTube Demo**: Watch a detailed walkthrough of Printify: [YouTube Link](https://youtu.be/NUV2BUpWSng?si=7lJ8lwpFvOj_ItvU)
