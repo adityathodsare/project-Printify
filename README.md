@@ -27,8 +27,16 @@ Printify empowers both users and print shop owners by providing:
 
 ## 🌐 Live Demo
 
-Experience Printify in action: **[youtube]([https://youtu.be/NUV2BUpWSng](https://www.linkedin.com/posts/aditya-thodsare-475366289_webapp-printify-springboot-activity-7284180807630368768-WPDF?utm_source=social_share_sheet&utm_medium=member_desktop_web))**      
+Experience Printify in action: **[Live Demo Link](https://your-demo-link.com)**  
 *(Replace this with the actual live demo link.)*
+
+## 🔗 Additional Resources
+
+- **YouTube Demo**: Watch a detailed walkthrough of Printify: [YouTube Link]([https://www.youtube.com/your-video-link](https://youtu.be/NUV2BUpWSng?si=7lJ8lwpFvOj_ItvU))  
+*(Replace this with your actual YouTube video link.)*
+
+- **LinkedIn Project Showcase**: Check out more details and connect with us: [LinkedIn Link]([https://www.linkedin.com/your-profile-link](https://www.linkedin.com/posts/aditya-thodsare-475366289_webapp-printify-springboot-activity-7284180807630368768-WPDF?utm_source=social_share_sheet&utm_medium=member_desktop_web))  
+*(Replace this with your actual LinkedIn post or profile link.)*
 
 ---
 
